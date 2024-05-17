@@ -15,7 +15,7 @@ body {
     background-color: white;
     padding: 2rem;
     border-radius: 1rem;
-    height: 48vh;
+    height: fit-content;
     width: 40vh;
 }
 
